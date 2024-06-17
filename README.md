@@ -8,7 +8,7 @@ Challenge 5 - We were expected to use jQuery and Bootstrap to create a web page 
 
 In this project we had to create a Task Board that the user could: add individual project tasks, manage their state of progress and track overall project progress accordingly
 
-[Webpage Challenge 5](https://mlipscomb24.github.io/5-Challenge/) 
+[Webpage Challenge 5](https://mlipscomb24.github.io/5_Challenge/Links to an external site.)
 
 
 
